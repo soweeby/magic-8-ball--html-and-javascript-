@@ -1,0 +1,12 @@
+body {
+    background-color: #eb99ff;
+    font-size: 56px;
+}
+#questionsec input[type="text"] {
+    display: block;
+    margin: 0 auto;
+}
+#fortunebutton {
+    display: block;
+    margin: 0 auto;
+}
